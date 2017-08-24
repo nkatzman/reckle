@@ -1,6 +1,6 @@
 {
   "name": "reckle",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "a RESTful integration for cucumber-js",
   "main": "index.js",
   "directories": {
